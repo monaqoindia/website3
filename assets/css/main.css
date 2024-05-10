@@ -571,7 +571,7 @@ footer {
   opacity: 0;
   font-family: "Plus Jakarta Sans", sans-serif;
   position: absolute;
-  top: 2px;
+  top : 2px;
   transform: rotateY(-90deg);
 }
 .preloader p {
@@ -1170,8 +1170,8 @@ footer {
 }
 
 .hero-v1-content h1 span {
-  font-size: 80px;
-  line-height: 120%;
+  font-size: 40px;
+  line-height: 100%;
 }
 .hero-v1-content h1 .text-italic {
   font-style: italic;
@@ -1182,7 +1182,7 @@ footer {
   -webkit-text-fill-color: transparent;
 }
 .hero-v1-content h1 .designers {
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: var(--theme);
   color: transparent;
   transition: all 0.5s;
